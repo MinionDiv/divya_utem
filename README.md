@@ -1,2 +1,0 @@
-# divya_utem
-makefile
